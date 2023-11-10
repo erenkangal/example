@@ -1,1 +1,1 @@
-# example
+# Deneme amaçlı oluşturuluyor.
